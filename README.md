@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @concept29
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java & python
+- 🌱 I’m currently learning java, python, html css, and javascript
 - 📫 How to reach me IQ: vwcu TW: kolv1_
 
 <!---
